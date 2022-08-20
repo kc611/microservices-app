@@ -1,10 +1,10 @@
 # Microserives based application using Go and gRPC
 
-A simple JavaScript game app deployed using Go microservices. 
+A simple JavaScript game app deployed using Go microservices and gRPC servers 
 
 The general architecture of the app is supposed to be as follows:
 
-![Overview](https://github.com/kc611/microservices-app/blob/main/Overview.png)
+<img src="https://github.com/kc611/microservices-app/blob/main/Overview.png" width="700" height="400"/>
 
 #### Work to be done:
 - [ ] Sample deployment using some real time free service.
